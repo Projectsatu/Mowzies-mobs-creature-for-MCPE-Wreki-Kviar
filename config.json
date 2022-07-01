@@ -2,7 +2,7 @@
   "Config": [
     {
       "interval": 2,
-      "backup": "unity",
+      "backup": "applovin",
       "status": true,
       "link": "https://ipsaya.com/hostinglokasi.php",
       
@@ -22,9 +22,9 @@
       "unity_inter": "Interstitial_Android",
       
       
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
+      "applovin_banner": "fc5db4a43905371f",
+      "applovin_inter": "31d86b89622b8247",
+      "applovin_native": "09415b8ea10ba812",
       
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
